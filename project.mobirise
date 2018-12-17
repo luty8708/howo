@@ -297,7 +297,7 @@
                 "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
               },
               {
-                "active": true,
+                "active": false,
                 "image": "@PROJECT_PATH@/assets/images/2387-2000x1333.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -323,6 +323,20 @@
                 "text": "一年一度的蜂蜜檸檬鑑賞大會即將展開，<br>選擇舉辦活動功能，便能將活動訊息推送給里民，<br>共同沉澱身心一起享用蜂蜜檸檬！",
                 "showButtons": true,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/MLOLxZtx9aA\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"\"></iframe></a> "
+              },
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/mbr-2000x1491.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "contentAlign": "right",
+                "showTitle": true,
+                "title": "每日農民曆",
+                "showText": true,
+                "text": "<font color=\"#000000\">了解每日吉凶，出門不怕遇災</font>",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><img src=\"https://img.chinatimes.com/newsphoto/2018-01-11/656/20180111002380.jpg\"></a> "
               }
             ],
             "fullScreen": false,
@@ -336,6 +350,9 @@
               "font-size": "60px"
             },
             "SPAN": {
+              "color": "#ffffff"
+            },
+            "FONT": {
               "color": "#ffffff"
             }
           }
@@ -413,7 +430,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/meta-chart-1400x933.png",
+              "src": "@PROJECT_PATH@/assets/images/meta-chart-1-1400x933.png",
               "link": "",
               "alt": "",
               "title": "",
