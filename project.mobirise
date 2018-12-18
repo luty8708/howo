@@ -167,7 +167,7 @@
             "showButtons": true
           },
           "title": "胖胖里長LineBot之淵源",
-          "text": "<span style=\"font-style: normal;\"><b>中興資管是一個和平的小鎮，由胖胖里長領導大家快樂過日子。</b></span><br><span style=\"font-style: normal;\"><b>科技日異月新，大家漸漸不踏出家門，與胖胖里長越來越少互動了……</b></span><span style=\"font-style: normal;\"><b><br></b></span>",
+          "text": "<span style=\"font-style: normal;\"><b>中興資管是一個和平的里，由胖胖里長領導大家快樂過日子。</b></span><br><span style=\"font-style: normal;\"><b>隨著科技日異月新，大家漸漸不出家門，與里長越來越少互動了……</b></span><span style=\"font-style: normal;\"><b><br></b></span>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html#header5-0\" data-toolbar=\"-mbrBtnMove\">如何解決</a>  <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html#form1-9\" data-toolbar=\"-mbrBtnMove\">聯絡里長</a>"
         },
         {
@@ -231,7 +231,7 @@
             "showButtons": true
           },
           "title": "革新計劃—初識LINEBOT",
-          "text": "<span style=\"font-style: normal;\">胖胖里長某日突然驚覺，大家的手機中有高機率會有一種通訊軟體，<br>LINE，<br>突然一陣天打雷劈，我何不從最貼近大家生活的LINE下手呢?<br>胖胖里長便開始了研究LINE@的操作。</span><br>",
+          "text": "<span style=\"font-style: normal;\">胖胖里長某日突然驚覺，大家的手機中有高機率會有一種通訊軟體，<br>LINE，<br>突然一陣天打雷劈，我何不從最貼近大家生活的LINE下手呢?<br>胖胖里長便開始了研究LINE@的操作。</span><span style=\"font-style: normal;\"><br></span><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/GA8V00uGvM0\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"\"></iframe></a>"
         },
         {
@@ -261,7 +261,7 @@
           },
           "title": "LINEBOT 超進化",
           "text": "<font color=\"#000000\" style=\"font-style: normal;\">胖胖里長快速的申請了一個LINE@帳號，便開始著手經營自己的里長帳號，</font><br><font color=\"#000000\" style=\"font-style: normal;\">每日發送訊息給里民，和里民用LINE@聊天互動</font><font color=\"#000000\" style=\"font-style: normal;\">，</font><br><font color=\"#000000\" style=\"font-style: normal;\">但胖胖里長發現，</font><font color=\"#000000\"><span style=\"font-style: normal;\">LINE@不只可以發訊息，</span></font><br><font color=\"#000000\"><span style=\"font-style: normal;\">只要加上messagingAPI就可以搖身一變為多功能的LINEBOT！</span></font>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><iframe src=\"https://h5p.org/h5p/embed/390035\" width=\"1040\" height=\"440\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe><script src=\"https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js\" charset=\"UTF-8\"></script></a> ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><iframe src=\"https://h5p.org/h5p/embed/390035\" width=\"1040\" height=\"440\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" style=\"width: 100%; height: 453px;\"></iframe><script src=\"https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js\" charset=\"UTF-8\"></script></a> ",
           "_styles": {
             ".mbr-section-title": {
               "font-size": "60px"
@@ -278,9 +278,9 @@
           "_name": "slider3",
           "_params": {
             "autoplay": true,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "timeout": 5,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "timeout": "5",
             "slides": [
               {
                 "active": false,
